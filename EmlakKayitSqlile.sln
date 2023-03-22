@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakKayitSqlile", "EmlakKayitSqlile\EmlakKayitSqlile.csproj", "{E78A59DD-4F27-4045-96AC-EC386C6EAA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78A59DD-4F27-4045-96AC-EC386C6EAA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78A59DD-4F27-4045-96AC-EC386C6EAA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78A59DD-4F27-4045-96AC-EC386C6EAA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78A59DD-4F27-4045-96AC-EC386C6EAA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF39E0E-8430-43FF-843D-F68E3A4AAAFD}
+	EndGlobalSection
+EndGlobal
